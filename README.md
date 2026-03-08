@@ -1,2 +1,10 @@
-# unicare-sdg3-project
-UniCare campus healthcare appointment system prototype
+Project: UniCare
+SDG Goal: SDG 3 – Good Health and Well-being
+
+Development Methodology:
+Agile Scrum
+
+Tools Used:
+Trello – Task Management
+GitHub – Version Control
+Figma – Prototype Design
